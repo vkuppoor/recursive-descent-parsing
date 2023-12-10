@@ -1,6 +1,4 @@
 # recursive-descent-parsing
-A short exploration of Recursive Descent Parsing
-
 Recursive Descent Parsing is a straightforward, easy-to-implement method for constructing parsers for grammars. In OCaml, thanks to its functional nature and powerful pattern matching, implementing a Recursive Descent Parser can be quite intuitive. This tutorial will guide you through the process of building such a parser in OCaml. 
 
 ## Prerequisites
